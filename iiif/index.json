@@ -1,0 +1,1200 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://morada-dadosiiif.vercel.app/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "Morada de Iemanja"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://morada-dadosiiif.vercel.app/01/3bf1000793203a64cc928df21958144e/full/300,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://morada-dadosiiif.vercel.app/01/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "01- vó catarina "
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/03.1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "coroado pai"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/04/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "13 de agosto2012.2"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/05/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "obaluae 2012"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/06/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "obaluae 2012.2"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/07/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "festa oxossi2012"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/08/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "festa de oxossi2012"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/09/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "festa de ogum2012"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/10/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "festa de ogum2012.2"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/11/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "festade pai antonio julho.2012"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/12/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "festade pai antonio julho.2012.2"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/13-de-agosto2012.4/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "amaci2012"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/14/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "amaci2012.2"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/15/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "agosto2012"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/16de-agosto2012/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "16de agosto2012"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/17/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "13 de agosto2012.4"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/18/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "13 de agosto2012.3"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/19/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "1girada praia2012"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/20/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "1festa cigana2012.2"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/21/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "1giradapraia2012.2"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/22/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "1festa cigana 2012"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/23/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "1 ibejada 2012"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/23.1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "1 festa de seu zé"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/24/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "1 gira da praia 2012"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/25/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "1 ibejada2012.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/26/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "trabalho2012"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/27/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ibejada2012"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/28/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "1 ano de casa 2012"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/29/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "1 ano 2"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/30/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "gira da praia 2013"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/31/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "festa de ogum2013"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/32/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "2 gira de oxossi2013.3"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/33/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "2 gira de caboclo 2013"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/34/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "abertura de exu2013"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/35.1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "função2013"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/35.1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "função2013"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/36/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "2 festa das crianças 2013.2"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/36.1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "gira praia 2013"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/36.2/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "1 festa de seu zé 2013.2"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/36.3/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "2 festa das crianças"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/37/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "2  festa de ogum2013"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/38/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "1 gira de velho 2013.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/39/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "1 gira de velho 2013"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/40/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "1 festa de seu zé2013"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/41/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "1 festa de seu zé 2013.3"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/42/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ogum 2014"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/43/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ogum 2014.2"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/43.1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "1 imantação 2014"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/44/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ibejada 2014"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/45/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "ibejada 2014.2"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/46/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "festa de ogum2014"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/47/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "1 imantação 2014.2"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        },
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "oxossi 2020.1"
+                ]
+            }
+        }
+    ]
+}

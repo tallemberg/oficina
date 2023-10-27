@@ -1,0 +1,81 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://morada-dadosiiif.vercel.app/20/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "1festa cigana2012.2"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "20"
+                ]
+            }
+        }
+    ],
+    "rights": "https://rightsstatements.org/page/CNE/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://morada-dadosiiif.vercel.app/20/c41b15729b1fbb5b27eedbeac4d99a7a/full/300,225/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 225,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "https://github.com/tallemberg/moradaiemanjaiiif.git"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://morada-dadosiiif.vercel.app/20/canvas/0",
+            "type": "Canvas",
+            "height": 720,
+            "width": 960,
+            "items": [
+                {
+                    "id": "https://morada-dadosiiif.vercel.app/20/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://morada-dadosiiif.vercel.app/20/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://morada-dadosiiif.vercel.app/20/canvas/0",
+                            "body": {
+                                "id": "https://morada-dadosiiif.vercel.app/20/c41b15729b1fbb5b27eedbeac4d99a7a/full/2000,1500/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1500,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://morada-dadosiiif.vercel.app/20/c41b15729b1fbb5b27eedbeac4d99a7a",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

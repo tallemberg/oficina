@@ -1,0 +1,81 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://morada-dadosiiif.vercel.app/30/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "gira da praia 2013"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "30"
+                ]
+            }
+        }
+    ],
+    "rights": "https://rightsstatements.org/page/CNE/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://morada-dadosiiif.vercel.app/30/ccc5a06fe2fc90174e9532ef12acf7c4/full/300,225/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 225,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "https://github.com/tallemberg/moradaiemanjaiiif.git"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://morada-dadosiiif.vercel.app/30/canvas/0",
+            "type": "Canvas",
+            "height": 1536,
+            "width": 2048,
+            "items": [
+                {
+                    "id": "https://morada-dadosiiif.vercel.app/30/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://morada-dadosiiif.vercel.app/30/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://morada-dadosiiif.vercel.app/30/canvas/0",
+                            "body": {
+                                "id": "https://morada-dadosiiif.vercel.app/30/ccc5a06fe2fc90174e9532ef12acf7c4/full/2000,1500/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1500,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://morada-dadosiiif.vercel.app/30/ccc5a06fe2fc90174e9532ef12acf7c4",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

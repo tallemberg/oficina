@@ -1,0 +1,93 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "oxossi 2020.1"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2020"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "99122"
+                ]
+            }
+        }
+    ],
+    "rights": "https://rightsstatements.org/page/CNE/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/afe22324775d48d5548f16b93de5a307/full/300,225/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 225,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "https://github.com/tallemberg/moradaiemanjaiiif.git"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://morada-dadosiiif.vercel.app/morada/canvas/0",
+            "type": "Canvas",
+            "height": 768,
+            "width": 1024,
+            "items": [
+                {
+                    "id": "https://morada-dadosiiif.vercel.app/morada/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://morada-dadosiiif.vercel.app/morada/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://morada-dadosiiif.vercel.app/morada/canvas/0",
+                            "body": {
+                                "id": "https://morada-dadosiiif.vercel.app/morada/afe22324775d48d5548f16b93de5a307/full/2000,1500/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1500,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://morada-dadosiiif.vercel.app/morada/afe22324775d48d5548f16b93de5a307",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
